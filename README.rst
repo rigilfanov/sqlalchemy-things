@@ -12,10 +12,10 @@ sqlalchemy-things
   :alt: Release
 
 .. |License| image:: https://img.shields.io/badge/License-MIT-green
-  :target: https://github.com/ri-gilfanov/sqlalchemy-things/blob/master/LICENSE
+  :target: https://github.com/rigilfanov/sqlalchemy-things/blob/master/LICENSE
   :alt: MIT License
 
-.. |Python versions| image:: https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue
+.. |Python versions| image:: https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue
   :target: https://pypi.org/project/sqlalchemy-things/
   :alt: Python version support
 
@@ -23,8 +23,8 @@ sqlalchemy-things
   :target: https://pepy.tech/project/sqlalchemy-things
   :alt: PyPI downloads count
 
-.. |GitHub CI| image:: https://github.com/ri-gilfanov/sqlalchemy-things/actions/workflows/ci.yml/badge.svg?branch=master
-  :target: https://github.com/ri-gilfanov/sqlalchemy-things/actions/workflows/ci.yml
+.. |GitHub CI| image:: https://github.com/rigilfanov/sqlalchemy-things/actions/workflows/ci.yml/badge.svg?branch=master
+  :target: https://github.com/rigilfanov/sqlalchemy-things/actions/workflows/ci.yml
   :alt: GitHub continuous integration
 
 Utility collection for development with `SQLAlchemy 2.0
